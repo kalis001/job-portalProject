@@ -50,7 +50,7 @@ export default function Home() {
         <div>
             <div className='row rows ' >
                 <div className="col-2 d-none d-lg-flex navrow">
-                    <button><h1>JOBES</h1></button>
+                    <button><h1>JOBS</h1></button>
                 </div>
                 <div className="col-12 col-lg-10">
                     <div className="nav">
@@ -85,7 +85,7 @@ export default function Home() {
 
                         <div className='menui'>
                             <div className='navrow d-lg-none '>
-                                <button><h1>JOBES</h1></button>
+                                <button><h1>JOBS</h1></button>
                             </div>
                             <div className='menuitem d-none d-lg-flex'>
                                 <Link>Home <span><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="currentColor" className="bi bi-chevron-down" viewBox="0 0 16 16">
